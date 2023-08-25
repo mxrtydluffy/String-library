@@ -78,8 +78,6 @@ test('makeHashTag', () => {
     expect(secondOutput).toEqual([]);
 });
 
-
-
 test('isEmpty', () => {
     const firstOutput = stringTest.isEmpty('Abc def');
     expect(firstOutput).toBe(false);
