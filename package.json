@@ -1,13 +1,13 @@
 {
   "name": "string-lab",
   "version": "1.0.0",
-  "description": "",
+  "description": "Javascript library for strings",
   "main": "./src/index.js",
   "scripts": {
     "test": "jest"
   },
   "keywords": [],
-  "author": "",
+  "author": "Marty Marinda",
   "license": "ISC",
   "devDependencies": {
     "jest": "^29.6.4"
