@@ -85,3 +85,16 @@ function makeHashTag(str) {
 function isEmpty(str) {
     return str.trim() === "";
 }
+
+module.exports = {
+    capitalize,
+    allCaps,
+    capitalizeWords,
+    removeExtraSpaces,
+    kebobCase,
+    snakeCase,
+    camelCase,
+    shift,
+    makeHashTag,
+    isEmpty,
+  };
