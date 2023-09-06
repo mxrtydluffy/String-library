@@ -1,5 +1,7 @@
 # String Lab
 
+https://www.npmjs.com/package/@mxrtydluffy/string-lib
+
 ![ESLint](https://img.shields.io/badge/ESLint-Passed-brightgreen)
 
 Javascript library using strings!
